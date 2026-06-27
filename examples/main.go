@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	npy "github.com/siddarth99/gonpz"
+	npy "github.com/siddarth99/gozeronpy"
 )
 
 func main() {

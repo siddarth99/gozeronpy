@@ -8,7 +8,7 @@ import (
 	"slices"
 	"testing"
 
-	npy "github.com/siddarth99/gonpz"
+	npy "github.com/siddarth99/gozeronpy"
 )
 
 // sampleArrays is the set of named arrays used by the round-trip tests.

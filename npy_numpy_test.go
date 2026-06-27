@@ -8,7 +8,7 @@ import (
 	"slices"
 	"testing"
 
-	npy "github.com/siddarth99/gonpz"
+	npy "github.com/siddarth99/gozeronpy"
 )
 
 // manifestEntry mirrors the JSON emitted by scripts/npygen.py.

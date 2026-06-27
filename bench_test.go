@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	npy "github.com/siddarth99/gonpz"
+	npy "github.com/siddarth99/gozeronpy"
 )
 
 // makeBenchFile writes an N-element float64 array and returns its path.

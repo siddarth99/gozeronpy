@@ -1,4 +1,4 @@
-# gonpz
+# gozeronpy
 
 A fast, zero-copy Go library for reading and writing NumPy `.npy` files.
 
@@ -36,11 +36,11 @@ BenchmarkSave-10             3275 MB/s     17 allocs/op
 ## Install
 
 ```sh
-go get github.com/siddarth99/gonpz
+go get github.com/siddarth99/gozeronpy
 ```
 
 ```go
-import npy "github.com/siddarth99/gonpz"
+import npy "github.com/siddarth99/gozeronpy"
 ```
 
 ## Reading

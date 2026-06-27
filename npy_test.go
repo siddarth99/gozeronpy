@@ -9,7 +9,7 @@ import (
 	"slices"
 	"testing"
 
-	npy "github.com/siddarth99/gonpz"
+	npy "github.com/siddarth99/gozeronpy"
 )
 
 // roundTrip writes data with the given shape, reads it back through every
