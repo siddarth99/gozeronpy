@@ -1,6 +1,6 @@
 # gozeronpy
 
-[![CI](https://github.com/siddarth99/gozeronpy/actions/workflows/ci.yml/badge.svg)](https://github.com/siddarth99/gozeronpy/actions/workflows/go.yml)
+[![CI](https://github.com/siddarth99/gozeronpy/actions/workflows/go.yml/badge.svg)](https://github.com/siddarth99/gozeronpy/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/siddarth99/gozeronpy)](https://goreportcard.com/report/github.com/siddarth99/gozeronpy)
 [![Go Reference](https://pkg.go.dev/badge/github.com/siddarth99/gozeronpy.svg)](https://pkg.go.dev/github.com/siddarth99/gozeronpy)
 
